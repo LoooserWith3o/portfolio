@@ -22,7 +22,8 @@ export const attributes = {
   about: {
     heading: 'Who am I?',
     image: '/img/about.jpeg',
-    text:  '/Christian Tokic'  },
+    text: 'Christian Tokic',
+  },
   features: [
     {
       icon: 'monitor-screenshot',
